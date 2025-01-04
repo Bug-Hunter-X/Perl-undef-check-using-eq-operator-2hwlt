@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an incorrect way to check for undefined values using the 'eq' operator. The solution shows the proper method using 'defined'.
